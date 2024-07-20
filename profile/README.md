@@ -24,6 +24,7 @@ The primary goal of this project is to showcase proficiency in the following tec
 - [ ] ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - [ ] ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - [ ] ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2316A085.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- [ ] ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
   
 ## Project Structure
 
