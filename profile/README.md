@@ -13,7 +13,7 @@ The primary goal of this project is to showcase proficiency in the following tec
 - [ ] ![Argo](https://img.shields.io/badge/Argo-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 - [ ] ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 - [ ] ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- [ ] ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+- [ ] ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 - [ ] ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 - [ ] ![Loki](https://img.shields.io/badge/Loki-%2316A085.svg?style=for-the-badge&logo=loki&logoColor=white)
 - [ ] ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
